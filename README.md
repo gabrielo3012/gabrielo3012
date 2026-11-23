@@ -1,5 +1,3 @@
-## Hey there! My name is Gabriel and I am an aspiring Front End Developer 😁
-
  <div>
    <a href="https://github.com/gabrielo3012">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielo3012&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
